@@ -34,6 +34,19 @@ sun1 = [
   yt, o, o, o, o, o, o, yt
   ]
 
+sun2 = [
+  yt, o, o, o, o, o, o, yt,
+  o, yt, o, o, o, o, yt, o,
+  o, o, yt, yt, yt, yt, o, o,
+  yt, yt, yt, yt, yt, yt, yt,yt, 
+  o, o, yt, yt, yt, yt, o, o,
+  o, o, yt, yt, yt, yt, o, o,
+  o, yt, o, o, o, o, yt, o,
+  yt, o, o, o, o, o, o, yt
+  ]
+
+
+
 #riempimento matrice per pioggia  
 rain = [
   o,b,o,b,o,b,o,b,
